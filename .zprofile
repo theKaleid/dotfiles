@@ -14,7 +14,5 @@ export PATH
 
 alias ghostty_config=vim\ $HOME/Library/Application\\\ Support/com.mitchellh.ghostty/config
 
-source ~/scripts/shop.sh
-
 source ~/.zshrc
 
